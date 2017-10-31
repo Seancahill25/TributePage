@@ -1,0 +1,23 @@
+commit 68eb8f1c161a9cf5f3ba69c400feaf527f1ac028
+Author: Sean Cahill <seancahill25@gmail.com>
+Date:   Tue Oct 31 17:27:53 2017 +0000
+
+    create Notes.txt
+
+commit 82cff0f6067475e0bf74a3cf8ea366d7f15a6620
+Author: Sean Cahill <seancahill25@gmail.com>
+Date:   Tue Oct 31 17:23:48 2017 +0000
+
+    minor modification
+
+commit 016b90811113d4713992f112a36c670c24a40b01
+Author: Sean Cahill <seancahill25@gmail.com>
+Date:   Thu Oct 26 17:00:54 2017 +0000
+
+    revision
+
+commit e15308463e89bfa6ed33b3e4f91af9faa387789e
+Author: Sean Cahill <seancahill25@gmail.com>
+Date:   Wed Oct 25 20:08:20 2017 +0000
+
+    First commit
